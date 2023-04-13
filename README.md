@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="800" src="https://github.com/HelsonVentura/store_data_analysis/blob/main/Screenshot_3.png">
+ </p>
+
+
 ### Pandas test.
 <!--All data used are fictitious-->
 My first study project using the Pandas library for data processing in conjunction with the Plotly Express library to create a chart containing the list of stores with their due billing.
